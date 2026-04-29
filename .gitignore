@@ -1,0 +1,11 @@
+# Large/raw data files
+data/*.csv
+data/*.zip
+
+# PostgreSQL/Docker local files
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
